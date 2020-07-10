@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.unitec</groupId>
-    <artifactId>topo</artifactId>
+    <artifactId>flaco</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>topo</name>
+    <name>flaco</name>
     <description>Back end con Spring para app moviles</description>
 
  
